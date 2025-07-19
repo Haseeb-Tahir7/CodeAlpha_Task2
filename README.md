@@ -1,1 +1,2 @@
 # CodeAlpha_Task2
+This task was done using file handling and a User class. On registration, username and password are saved to a file (users.txt) in a simple format. For login, the file is read line by line to verify credentials. A challenge here was checking credentials efficiently without complex encryption, which I kept basic due to simplicity requirements. Input/output handling had to be kept smooth for user clarity. Overall, the system works well for a basic credential manager using simple logic.
